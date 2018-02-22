@@ -4,34 +4,22 @@ Fill out this worksheet (it can be opened in a plain text editor, like TextEdit 
 
 Feel free to work in groups, and discuss the assignments as needed. However, I do expect you to turn in your own copy, with answers in your own words. Feel free to try the commands in the answers - you don't have to do this from memory.
 
-
-1. Matching: On LONI, when I log in, I am located in my __b__. I should store my data in the __a___ system, which has a 
-60 day storage limit. I should run computations in the __a__, and not in the __b___.
-=======
 1. Matching: On LONI, when I log in, I am located in my __. I should store my data in the __ system, which has a 60 day storage limit. I should run computations in the __, and not in the __.
->>>>>>> a97b1f039c98cd2a8e2dc986eba4398c82f36fa5
 
 	a. /work/  
 	b. user home
 
 2. If I wanted to view the files in my home directory, but I am located in my work directory, I would use:  
-	c. ls ~/ 
-=======
 	a. ls  
 	b. ls -F  
 	c. ls ~/
->>>>>>> a97b1f039c98cd2a8e2dc986eba4398c82f36fa5
 	
 3. In your own words, what does the correct command in question two do? 
-list the items in the home directory
 
 4. In what order do we use the following commands: git push, git add, git commit? In your own words, what does this series of commands do? 
-git add, git commit, & git push.
-adds any changes made to a file in the repository 
 
 5. This series of commands will not work. Can you spot the issue? Tell me what goes wrong here, and why.
-Instead of git "commit -m" it should read "git commit -a."
--a will save the files that have been modified & will leave all unaffected files alone
+
 ```
 mkdir my_project
 cd my_project
