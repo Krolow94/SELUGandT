@@ -7,20 +7,19 @@ Feel free to work in groups, and discuss the assignments as needed. However, I d
 
 1. Matching: On LONI, when I log in, I am located in my __b__. I should store my data in the __a___ system, which has a 
 60 day storage limit. I should run computations in the __a__, and not in the __b___.
-=======
+
 1. Matching: On LONI, when I log in, I am located in my __. I should store my data in the __ system, which has a 60 day storage limit. I should run computations in the __, and not in the __.
->>>>>>> a97b1f039c98cd2a8e2dc986eba4398c82f36fa5
+
 
 	a. /work/  
 	b. user home
 
 2. If I wanted to view the files in my home directory, but I am located in my work directory, I would use:  
 	c. ls ~/ 
-=======
 	a. ls  
 	b. ls -F  
 	c. ls ~/
->>>>>>> a97b1f039c98cd2a8e2dc986eba4398c82f36fa5
+
 	
 3. In your own words, what does the correct command in question two do? 
 list the items in the home directory
