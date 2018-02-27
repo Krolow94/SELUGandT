@@ -170,13 +170,21 @@ which is a tabular format that can be read by most Office suites, R, Python, etc
 
 Embed the PDFs you downloaded below. Write a brief sentence about what the plot means and why it might have failed (or how we can improve). Add, commit and push this file, with your changes, to your copy of this repository by the start of class Tuesday.
 
-![Embed your histogram](../fig/histogram) 
+SELUGandT/homework/fig/hist.pdf 
 
-![Embed your quality ](../fig/qulity) 
+This figure shows the distribution of the size of the reads we got. 
 
-![Embed your basepairs ](../fig/bp) 
+SELUGandT/homework/fig/quality.pdf 
 
-![Embed your read length chart ](../fig/reads) 
+This figure shows the quality of the reads we got from the minion
+
+SELUGandT/homework/fig/bp.pdf 
+
+This figure represents how many base pairs were read over time. 
+
+SELUGandT/homework/fig/reads.pdf
+
+This figure shows the number of reads over time. This graph does have issues related to the y-axis b/c the scale is way off.  
 
 
 
